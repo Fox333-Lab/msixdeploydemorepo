@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://fox333-lab.github.io/msixdeploydemorepo/DeploymentDempMSIX2.appinstaller"
-	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.2.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="965fa689-af05-44a7-ba57-cabcce06abb8"
-		Version="1.0.1.0"
+		Version="1.0.2.0"
 		Publisher="CN=P10469508"
-		Uri="https://fox333-lab.github.io/msixdeploydemorepo/DeploymentDempMSIX2_1.0.1.0_Test/DeploymentDempMSIX2_1.0.1.0_x86_x64.appxbundle" />
+		Uri="https://fox333-lab.github.io/msixdeploydemorepo/DeploymentDempMSIX2_1.0.2.0_Test/DeploymentDempMSIX2_1.0.2.0_x86_x64.appxbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0" />
